@@ -18,7 +18,7 @@ class WhoAmI extends Developer<Backend>{
 			Linkedin: "periclespires",
 			Twitter: "bitpickle0",
 			Discord: "bitpickle#6540",
-			Email: "periclespires@protonmail.com"		
+			Email: "me@bitpickle.dev"		
 		}
 	}
 
